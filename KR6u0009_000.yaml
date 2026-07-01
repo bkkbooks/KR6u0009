@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0009/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 首羅比丘經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2873.xml
+    old_id: T85n2873
+hash: sha256:705e41904c24957d66886a3c116d646c3f7eb16163d46bb6761b5d4a0ed53f12

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6u0009/v1
+canonical_location: https://kanripo.org/bkk/KR6u0009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 首羅比丘經
+  identifiers:
+    alt_id:
+    - T85n2873
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2873.xml
+    old_id: T85n2873
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0009_000.yaml, hash: 'sha256:705e41904c24957d66886a3c116d646c3f7eb16163d46bb6761b5d4a0ed53f12'}
+  - {seq: 1, filename: KR6u0009_001.yaml, hash: 'sha256:aa13c05a5a9c00166598edd95c660eaa759bbcbca101ec70194c73e17b7617b2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0009_001.markers.yaml, hash: 'sha256:bf574abdfaa7e228ae7e12808b430c97d837943b9f748d827ca82fbc80fb5a88'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0009_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3963
+  label: 首羅比丘經
+  type: juan
+  level: 1
+hash: sha256:5891f4d311d46d15bb5aeed56034b83b065732c769b76d8f9c470838e660a6bb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
